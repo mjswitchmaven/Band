@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+body {
+    background-color: rosybrown;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 0px auto;
+}
